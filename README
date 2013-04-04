@@ -1,0 +1,5 @@
+The scripts are fairly simple
+1. It uses a counter to check when the sites been visited and updates it every time it's revisited. The count is kept in stats.txt
+2. It then uses a script to determine which OS the user is using and displays it
+3. Using the same logic as above it updates the counter for the OS of the type
+4. Displays all the OSs from which the site has been accessed and their count.
